@@ -1,4 +1,5 @@
 # ras-fuzzer
+<img src="https://img.shields.io/github/license/hahwul/ras-fuzzer.svg"> <a href="https://twitter.com/intent/follow?screen_name=hahwul"><img src="https://img.shields.io/static/v1.svg?label=follow&message=hahwul&color=black"></a>
 ## Install 
 go get
 ```cassandraql
