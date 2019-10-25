@@ -53,12 +53,15 @@ ____ ___  ___       ____ _    ___  ___  ____ ____
 [+] 1.google.com
 ....
 ```
+<img src="https://user-images.githubusercontent.com/13212227/67593375-0954f680-f79d-11e9-8149-87762348cd91.png">
 
 ### Callback
 send message to slack (with callback options)
 ```cassandraql
 ./ras-fuzzer -target google.com -callback "curl -X POST --data-urlencode 'payload={\"channel\": \"#your-slack-channel\", \"username\": \"ras-fuzzer\", \"text\": \"Find subdomain : **PARAM**\", \"icon_emoji\": \":ghost:\"}' https://hooks.slack.com/services/your-slack-webhook-address"
 ```
+<img src="https://user-images.githubusercontent.com/13212227/67593463-2689c500-f79d-11e9-9fd4-ea4ebc0c4be1.png">
+<img src="https://user-images.githubusercontent.com/13212227/67593464-2689c500-f79d-11e9-9814-886f94f90c97.png">
 
 make file (with callback options)
 ```cassandraql
