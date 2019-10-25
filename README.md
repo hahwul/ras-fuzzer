@@ -77,3 +77,6 @@ $ ls | grep google.com
 1.google.com
 gg.google.com
 ```
+
+### Video
+https://asciinema.org/a/277040
