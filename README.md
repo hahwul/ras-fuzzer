@@ -5,7 +5,7 @@
 ## Install 
 go get
 ```cassandraql
-$ go get gitub/hahwul/ras-fuzzer
+$ go get github.com/hahwul/ras-fuzzer
 ```
 
 or 
