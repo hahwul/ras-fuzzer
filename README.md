@@ -81,4 +81,4 @@ gg.google.com
 ```
 
 ### Video
-https://asciinema.org/a/277040
+[![asciicast](https://asciinema.org/a/277040.svg)](https://asciinema.org/a/277040)
