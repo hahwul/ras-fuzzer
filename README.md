@@ -82,3 +82,9 @@ gg.google.com
 
 ### Video
 [![asciicast](https://asciinema.org/a/277040.svg)](https://asciinema.org/a/277040)
+
+## Donate
+
+I like coffee! I'm a coffee addict.<br>
+<a href="https://www.paypal.me/hahwul"><img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" height="50px"></a>
+<a href="https://www.buymeacoffee.com/hahwul"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="50px"></a>
