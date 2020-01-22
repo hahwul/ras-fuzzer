@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/13212227/67617365-74461200-f81d-11e9-9733-d64fac6df46a.png" width=100%> 
 
 # RAS-Fuzzer (RAndom Subdomain Fuzzer)
-<img src="https://img.shields.io/github/license/hahwul/ras-fuzzer.svg"> <a href="https://twitter.com/intent/follow?screen_name=hahwul"><img src="https://img.shields.io/static/v1.svg?label=follow&message=hahwul&color=black"></a>
+<img src="https://img.shields.io/github/license/hahwul/ras-fuzzer.svg"> <a href="https://twitter.com/intent/follow?screen_name=hahwul"><img src="https://img.shields.io/twitter/follow/hahwul?style=flat-square"></a>
 ## Install 
 go get
 ```cassandraql
